@@ -6,11 +6,11 @@
 
 ## 📺订阅地址
 
-🌐订阅链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
+🌐订阅链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/xxf185/myIPTV/master/ipv6.m3u_
 
 ## 🙋‍♂️赞赏
 <p>
-<img width="200" height="200" src="https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/img/赞赏.png">
+<img width="200" height="200" src="https://ghgo.xyz/raw.githubusercontent.com/xxf185/myIPTV/master/img/赞赏.png">
 </p>
 
 ## 📖项目说明
